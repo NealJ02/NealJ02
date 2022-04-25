@@ -1,4 +1,4 @@
-##### Hi there 👋
+### Hi there 👋
 
 <!--
 **NealJ02/NealJ02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##Languages that I code in: Java, Python
 
-##<u>Repositories<\u>
+<u>Repositories<\u>
 
 **AI Projects: Consists of different projects that I have done under the umbrella of AI, which are split by subtopic**
   
