@@ -32,5 +32,5 @@ AI Projects: Consists of different projects that I have done under the umbrella 
   - General Projects: Random projects that I have done on AI
 
 
-The computer was born to solve problems that did not exist before.” — Bill Gates
+"The computer was born to solve problems that did not exist before.” — Bill Gates
 
