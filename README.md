@@ -21,13 +21,16 @@ Welcome to my profile!
 
 Languages that I code in: Java, Python
 
-<u>Repositories</u>
+**Repositories**
 
-**AI Projects: Consists of different projects that I have done under the umbrella of AI, which are split by subtopic**
+AI Projects: Consists of different projects that I have done under the umbrella of AI, which are split by subtopic
   
-  Medical AI: AI projects which can help in the field of healthcare
+  - Medical AI: AI projects which can help in the field of healthcare
 
-  Ethical AI: AI projects which tackle how AI can be used in an ethical way
+  - Ethical AI: AI projects which tackle how AI can be used in an ethical way
   
-  General Projects: Random projects that I have done on AI
+  - General Projects: Random projects that I have done on AI
+
+
+Currently expanding knowledge on Medical AI
 
